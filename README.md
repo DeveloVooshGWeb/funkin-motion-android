@@ -1,4 +1,4 @@
-# Funkin Motion Android
+# GWebDev Funkin Motion Android
 YES! \
 So about motion android \
 I managed to manipulate tcp sockets and do some messing around \
@@ -28,3 +28,11 @@ So you need to put the AndroidStd folder, the folder where the java jdk is insta
 Everything should be precise on the paths \
 Then you could do `lime test android` (again the lime command might not work on mac or linux so if thats the case then do `haxelib run lime [your command]`) \
 And thats how you setup this stupid project LOL
+# How To Setup The PC Version (AKA How To Fucking Hook This Piece Of Shit)
+I explained how to setup the android controller so now its time i explain how to hook it onto fnf mods or some fucking shit \
+So first of course you need coding experience (if not then just fucking download the files in the releases https://github.com/GrowtopiaFli/funkin-motion-android/releases) \
+So your suppose to enable unknown sources in the settings of your android phone which you could research on youtube very quickly https://www.youtube.com \
+You know the good part is you dont really need to install more libraries as this only uses the Sys Socket class which is tcp of course \
+Tho we cannot set this up for html5 im afraid so sorry LOL \
+Keep in mind that this uses a `TCP Socket` and for the web version you could only make a `WEBSOCKET` \
+But i mean you could technically code a websocket library in the android controller but idk how that will work out since i tried to use one library and it broke \
