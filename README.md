@@ -8,12 +8,12 @@ IDK android motion to fnf \
 And i had a stroke in ballistic i would say LOL \
 But yeee it might be a little hard to follow compiling \
 To compile for windows just follow the fucking instructions in the main funkin repository over at https://github.com/ninjamuffin99/Funkin \
-To compile for android you need to download these 3 things \
+To compile for android you need to download these 3 things
   - jdk - https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
   - android studio - https://developer.android.com/studio
 
-  - ndk - https://developer.android.com/ndk/downloads/older_releases?hl=fi
+  - ndk - https://developer.android.com/ndk/downloads/older_releases?hl=fi \
 Yes i know its shit \
 First download the java jdk idk how you login and shit then set it up \
 Then you need to download android studio and go to its settings -> appearance & behaviour -> system settings -> android sdk -> sdk tools \
