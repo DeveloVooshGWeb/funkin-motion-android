@@ -38,7 +38,6 @@ So your suppose to enable unknown sources in the settings of your android phone 
 You know the good part is you dont really need to install more libraries as this only uses the Sys Socket class which is tcp of course \
 Tho we cannot set this up for html5 im afraid so sorry LOL \
 Keep in mind that this uses a `TCP Socket` and for the web version you could only make a `WEBSOCKET` \
- \
-**NO IOS SUPPORT AT THE MOMENT!** \
- \
 But i mean you could technically code a websocket library in the mobile controller but idk how that will work out since i tried to use one library and it broke \
+# MOBILE SUPPORT
+**THERE IS NO IOS SUPPORT AT THE MOMENT SO SORRY IOS USERS**
