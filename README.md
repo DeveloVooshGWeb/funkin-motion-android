@@ -1,11 +1,14 @@
-# GWebDev Funkin Motion Android
+# GWebDev Funkin Motion Mobile
 YES! \
-So about motion android \
+So about motion mobile \
 I managed to manipulate tcp sockets and do some messing around \
-To send my android phone's accelerometer signals onto my computer \
+To send my mobile phone's accelerometer signals onto my computer \
 And manipulate it in game to make \
-IDK android motion to fnf \
+IDK mobile motion to fnf \
 And i had a stroke in ballistic i would say LOL \
+ \
+**NOTE THAT THIS IS ONLY FOR ANDROID RIGHT NOW** \
+ \
 But yeee it might be a little hard to follow compiling \
 To compile for windows just follow the fucking instructions in the main funkin repository over at https://github.com/ninjamuffin99/Funkin \
 To compile for android you need to download these 3 things
@@ -35,4 +38,7 @@ So your suppose to enable unknown sources in the settings of your android phone 
 You know the good part is you dont really need to install more libraries as this only uses the Sys Socket class which is tcp of course \
 Tho we cannot set this up for html5 im afraid so sorry LOL \
 Keep in mind that this uses a `TCP Socket` and for the web version you could only make a `WEBSOCKET` \
-But i mean you could technically code a websocket library in the android controller but idk how that will work out since i tried to use one library and it broke \
+ \
+**NO IOS SUPPORT AT THE MOMENT!** \
+ \
+But i mean you could technically code a websocket library in the mobile controller but idk how that will work out since i tried to use one library and it broke \
